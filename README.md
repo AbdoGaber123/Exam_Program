@@ -7,4 +7,4 @@ qouestions . The Process is we ask a question , then , the user give
 an answer, we say is it correct or not , we also collect the correct 
 answers and store them into variable, finllay we tell the user his 
 score and percentage.
-# in this program we use dictionary data type to store qouestions and answers 
+$ in this program we use dictionary data type to store qouestions and answers 
